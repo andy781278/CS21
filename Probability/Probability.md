@@ -1,4 +1,5 @@
-same thing as combinatorial, but different names
+#Probability
+same thing as counting, but different names
 
 Sample Space -> Set
 Outcomes -> Element

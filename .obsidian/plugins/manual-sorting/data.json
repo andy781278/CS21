@@ -1,8 +1,9 @@
 {
   "customFileOrder": {
     "/": [
+      "Canvas.md",
       "Classes",
-      "Combinations",
+      "Counting",
       "Probability",
       "Proof",
       "Sorting",
@@ -21,27 +22,28 @@
       "Classes/Oct 15th W.md",
       "Classes/Oct 17th F.md",
       "Classes/Oct 20th M.md",
-      "Classes/Oct 22nd W.md"
+      "Classes/Oct 22nd W.md",
+      "Classes/Oct 24th.md"
     ],
-    "Combinations": [
-      "Combinations/Combinatorial.md",
-      "Combinations/Sum Rule.md",
-      "Combinations/Product Rule.md",
-      "Combinations/Power Rule.md",
-      "Combinations/r-Permutations.md",
-      "Combinations/Permutations.md",
-      "Combinations/Multiset.md",
-      "Combinations/Anagram.md",
-      "Combinations/Quotient Rule.md",
-      "Combinations/r-Combinations.md",
-      "Combinations/Fixed Density.md",
-      "Combinations/Each character is used at least once.md",
-      "Combinations/Stars and Bars.md",
-      "Combinations/Integer Equations.md",
-      "Combinations/Injective.md",
-      "Combinations/Surjective.md",
-      "Combinations/Binomial Coefficient.md",
-      "Combinations/The 12-fold way.md"
+    "Counting": [
+      "Counting/Counting.md",
+      "Counting/Sum Rule.md",
+      "Counting/Product Rule.md",
+      "Counting/Power Rule.md",
+      "Counting/r-Permutations.md",
+      "Counting/Permutations.md",
+      "Counting/Multiset.md",
+      "Counting/Anagram.md",
+      "Counting/Quotient Rule.md",
+      "Counting/r-Combinations.md",
+      "Counting/Fixed Density.md",
+      "Counting/Each character is used at least once.md",
+      "Counting/Stars and Bars.md",
+      "Counting/Integer Equations.md",
+      "Counting/Injective.md",
+      "Counting/Surjective.md",
+      "Counting/Binomial Coefficient.md",
+      "Counting/The 12-fold way.md"
     ],
     "Pics": [
       "Pics/Screen Shot 2025-10-17 at 8.34.59 PM.png",
@@ -79,7 +81,10 @@
     ],
     "Sorting": [
       "Sorting/Sorting.md",
-      "Sorting/Total Ordering.md"
+      "Sorting/Algorithm.md",
+      "Sorting/Total Ordering.md",
+      "Sorting/Min Sort.md",
+      "Sorting/Arithmetic Series.md"
     ]
   },
   "draggingEnabled": true,

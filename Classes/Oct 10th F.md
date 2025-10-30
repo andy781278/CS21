@@ -1,4 +1,4 @@
-one of the [[Classes]]
+#class
 
 [[Probability]]
 

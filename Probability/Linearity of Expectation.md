@@ -1,3 +1,4 @@
+#Probability
 
 1. Define $X_i$ where X is the thing you are looking for, and $X_i$ is a way to divide up the X into small individual things with probabilities you can calculate
 2. Make a rule stating X_i is 1(true) if it satisfies the requirements requested

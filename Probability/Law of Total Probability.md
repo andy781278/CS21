@@ -1,3 +1,4 @@
+#Probability
 $$P(E)=P(E|F)P(F)+P(F|E)P(E)$$
 $$P(E)=P(E|F)P(F)+P(E|\bar{F})P(\bar{F})$$
 

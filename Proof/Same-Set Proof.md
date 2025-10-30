@@ -1,3 +1,4 @@
+#Proof
 . Find a set <- define this first clearly (Let S be the set...)
 2. explain why the LHS counts this set <- do 2 and 3 separately, no moving terms in between
 3. explain why the RHS counts this set

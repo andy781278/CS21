@@ -11,10 +11,62 @@
             "id": "6ad0ad823b7f046e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Classes/Oct 24th.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Oct 24th"
+            }
+          },
+          {
+            "id": "f14241ae3e77d46b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sorting/Sorting.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sorting"
+            }
+          },
+          {
+            "id": "1b78614249bbf78d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sorting/Arithmetic Series.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Arithmetic Series"
+            }
+          }
+        ]
+      },
+      {
+        "id": "472dd96ff9eeced9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "20b31af459f6ab70",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Canvas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Canvas"
             }
           }
         ]
@@ -165,41 +217,41 @@
   },
   "active": "6ad0ad823b7f046e",
   "lastOpenFiles": [
-    "Combinations/Combinatorial.md",
     "Sorting/Sorting.md",
+    "Classes/Oct 24th.md",
+    "Classes/Oct 22nd W.md",
+    "Sorting/Arithmetic Series.md",
+    "Sorting/Min Sort.md",
+    "Sorting/Algorithm.md",
     "Sorting/Total Ordering.md",
+    "Canvas.md",
+    "Classes/Classes.md",
+    "Proof/Bijection Proof.md",
     "Proof/Proofs.md",
+    "Proof/Induction.md",
+    "Proof/Symmetry Identity.md",
+    "Proof/bijection.md",
+    "Proof/Binomial Theorem.md",
+    "Proof/Pascal's Identity.md",
+    "Proof/Sum Identity.md",
+    "Proof/Same-Set Proof.md",
+    "Proof/Combinatorial proofs.md",
+    "Probability/Geometric Distribution.md",
+    "Probability/Law of Total Expectation.md",
+    "Probability/Conditional Expectation.md",
+    "Probability/Linearity of Expectation.md",
+    "Probability/Expected Value (Average).md",
+    "Probability/Binomial Distribution.md",
+    "Probability/Law of Total Probability.md",
     "Pics/Screen Shot 2025-10-20 at 9.03.17 PM.png",
     "Pics/Screen Shot 2025-10-17 at 8.34.59 PM.png",
     "Pics/Screen Shot 2025-10-25 at 6.57.37 PM.png",
-    "Probability/Geometric Distribution.md",
     "Pics",
     "Sorting",
-    "Proof/Combinatorial proofs.md",
-    "Probability/Binomial Distribution.md",
-    "Classes/Oct 17th F.md",
-    "Classes/Oct 15th W.md",
-    "Combinations/Binomial Coefficient.md",
     "Probability",
-    "Combinations/Injective.md",
-    "Combinations/Surjective.md",
-    "Classes/Classes.md",
-    "Classes/Oct 13th M.md",
-    "Classes/Sep 26th F.md",
-    "Combinations/Each character is used at least once.md",
     "Classes",
-    "Classes/Oct 8th W.md",
-    "Combinations/The 12-fold way.md",
-    "Proof/Sum Identity.md",
-    "Proof/Pascal's Identity.md",
-    "Proof/Binomial Theorem.md",
-    "Combinations/Fixed Density.md",
-    "Proof/Symmetry Identity.md",
-    "Proof/Induction.md",
     "Proof",
-    "Combinations/Sum Rule.md",
-    "Combinations/Power Rule.md",
-    "Combinations",
+    "Counting",
     "Pics/Screen Shot 2025-10-20 at 9.05.07 PM.png",
     "Pics/Screen Shot 2025-10-20 at 9.03.35 PM.png",
     "Untitled.base",

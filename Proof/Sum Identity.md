@@ -1,3 +1,4 @@
+#Proof
 Theorem: $\sum_{k=0}^{n} \binom{n}{k} = 2^n$
 
 Proof:

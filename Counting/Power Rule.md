@@ -1,3 +1,4 @@
+#Counting
 For any set A, |AxAxA….| = |A|^n
 - For counting num len of strings
 - Binary strings length n has 2^n possible strings

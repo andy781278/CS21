@@ -1,4 +1,4 @@
-one of the [[Classes]]
+#class
 More knights and castles
 11 knights in 5 castles
 000100011000001

@@ -1,3 +1,4 @@
+#Probability
 this in probability means a function
 $$p:S \rightarrow [0,1]$$
 ($[0,1]$ means a range from 0 to 1 inclusive)

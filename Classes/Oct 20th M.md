@@ -1,4 +1,4 @@
-One of the [[Classes]]
+#class
 
 #### [[Linearity of Expectation]]
 Child shuffles 20 letters into 20 addressed envelopes, what chance correct letter goes in correct envelope, i=20

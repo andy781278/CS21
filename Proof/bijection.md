@@ -1,3 +1,4 @@
+#Proof
 1-1 and onto
 
 1-1 means for every x, there is a y

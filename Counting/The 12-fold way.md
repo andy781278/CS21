@@ -1,3 +1,4 @@
+#Counting
 organization of what has been taught so far
 
 All we've been doing is learning how to create a function f: X -> Y

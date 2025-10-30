@@ -1,3 +1,4 @@
+#Counting
 For disjoint sets A and B, |AUB| = |A|+|B| - |A intersection B|
 OR
 

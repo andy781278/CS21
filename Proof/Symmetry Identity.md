@@ -1,3 +1,4 @@
+#Proof
 (n k) = (n n-k)
 
 basically, nk and n n-k is the same result in combination, like 10 3 and 10 7 is the same

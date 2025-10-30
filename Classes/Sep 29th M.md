@@ -1,4 +1,4 @@
-one of the [[Classes]]
+#class
 Correct answer from [[Sep 26th F]]'s question: $(62^8-36^8)$
 Explaination:
 - imagine circle that represents the total number of possible permutations of 8-lettered passwords, that circle contains $62^8$ passwords

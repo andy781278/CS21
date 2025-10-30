@@ -1,3 +1,4 @@
+#Counting
 Set S with n elements, get subset of k different elements of S, order doesn't matter
 [[Binomial Coefficient]]: $\binom{n}{k}$
 Also counts:

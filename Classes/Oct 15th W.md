@@ -1,4 +1,4 @@
-One of the [[Classes]]
+#class
 
 #### Partition the Sample Space
 [[Law of Total Probability]] states:

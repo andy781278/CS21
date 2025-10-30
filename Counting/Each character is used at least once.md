@@ -1,3 +1,4 @@
+#Counting
 How many n length strings over alphabet size X? $X^n$, power rule
 How many n length strings over alphabet size X such that every character is used at least once?
 length 3: 3!

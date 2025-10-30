@@ -1,4 +1,4 @@
-one of the [[Classes]]
+#class
 Proving the [[Sum Identity]]
 
 Last time we talked about Inclusion-Exclusion property with the + and - sets that overlaps

@@ -1,4 +1,4 @@
-one of the [[Classes]]
+#class
 
 #### How to count $\sum_{k=0}^{n}\binom{n}{k}2^{k}$
 $\binom{n}{k}$ means number of [[Fixed Density]] n length binary string with k ones.

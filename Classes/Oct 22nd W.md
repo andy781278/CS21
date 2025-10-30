@@ -1,4 +1,4 @@
-One of the [[Classes]]
+#class
 
 ![[Conditional Expectation]]
 
@@ -7,3 +7,5 @@ One of the [[Classes]]
 ![[Geometric Distribution]]
 
 ![[Sorting]]
+
+[[Oct 24th]]

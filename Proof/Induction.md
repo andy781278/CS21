@@ -1,3 +1,4 @@
+#Proof
 Procedure:
 start with base case: pick n=1, and show that it works
 induction hypothesis: assume replace with k for some int k>=1 is true

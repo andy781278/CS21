@@ -1,3 +1,4 @@
+#Proof
 [[Bijection Proof]]
 1. find a set counted by the LHS
 2. find a set countd by the RHS

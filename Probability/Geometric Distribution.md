@@ -1,3 +1,4 @@
+#Probability
 Used for **Ending Conditions** where a condition requires something to only stop when it succeeds for the first time
 
 Let X be the number of tries until it succeeds for the first time, including the succeeding time

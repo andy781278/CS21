@@ -1,3 +1,4 @@
+#Counting
 consider $a+b+c+d=10$ where a,b,c,d are non-negative integers, how many sol for eq?
 consider each var a castle, and the constant the num of knights
 therefore $\binom{10+4-1}{4-1}$

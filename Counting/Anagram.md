@@ -1,3 +1,4 @@
+#Counting
 if you have n characters, you have n! anagrams, unless a letter repeats
 
 This technique is known as the [[Quotient Rule]]

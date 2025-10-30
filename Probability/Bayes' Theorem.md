@@ -1,3 +1,4 @@
+#Probability
 $$P(F|E)=\frac{P(E|F)P(F))}{P(E)}$$
 
 Substitution from [[Law of Total Probability]] to change out the P(E)

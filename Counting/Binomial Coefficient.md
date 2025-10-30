@@ -1,1 +1,2 @@
+#Counting
 $\binom{n}{k}$

@@ -1,4 +1,4 @@
-one of the [[Classes]]
+#class
 Late work - 24 hr until its unavailable, 1 pt penalty
 
 Lectures Recorded

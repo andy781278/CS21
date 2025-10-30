@@ -1,44 +1,58 @@
 {
   "collapse-filter": true,
   "search": "",
-  "showTags": false,
+  "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "Combinatorial",
+      "query": "tag:#class  ",
       "color": {
         "a": 1,
         "rgb": 14701138
       }
     },
     {
-      "query": "Probability",
+      "query": "tag:#Counting",
       "color": {
         "a": 1,
         "rgb": 14725458
       }
     },
     {
-      "query": "Sorting",
+      "query": "tag:#Probability",
       "color": {
         "a": 1,
         "rgb": 11657298
       }
+    },
+    {
+      "query": "tag:#Proof",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "tag:#Sorting ",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
+  "nodeSizeMultiplier": 1.21773496356675,
+  "lineSizeMultiplier": 1.65269544275658,
   "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
+  "centerStrength": 0.396381375818204,
+  "repelStrength": 10.1914289242929,
   "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 1.2549522617023783,
+  "linkDistance": 51,
+  "scale": 1.2043875339426473,
   "close": true
 }

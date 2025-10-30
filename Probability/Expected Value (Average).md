@@ -1,3 +1,4 @@
+#Probability
 To get the average/expected value, do the following:
 1. List all possible outcomes (eg. winning $1, $3, $15. Win $5 if same color, lose $3 if different color)
 2. Find the probability of each outcome

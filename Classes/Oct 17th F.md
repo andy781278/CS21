@@ -1,4 +1,4 @@
-One of the [[Classes]]
+#class
 
 ##### Bernoulli Trial
 An experiment with only 2 outcomes, each outcome is independent of others, like coin flip

@@ -1,3 +1,4 @@
+#Proof
 theorem: $\binom{n+1}{k}=\binom{n}{k-1}+\binom{n}{k}$
 
 Proof 1: just math it

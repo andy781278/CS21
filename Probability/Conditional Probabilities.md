@@ -1,3 +1,4 @@
+#Probability
 ## $$P(A|B)$$
 Probability of an event may change if have additional info about outcomes
 

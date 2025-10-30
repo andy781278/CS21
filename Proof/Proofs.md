@@ -1,4 +1,4 @@
-
+#Proof
 #### [[Induction]]
 [[Binomial Theorem]]
 [[Pascal's Identity]]

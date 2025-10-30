@@ -1,3 +1,4 @@
+#Probability
 Probability of flipping k heads in n Bernoulli trials when the probability of success is p
 
 Example:

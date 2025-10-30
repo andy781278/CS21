@@ -1,3 +1,4 @@
+#Proof
 find a set counted by the LHS
 2. find a set countd by the RHS
 3. build a bijection between these two sets

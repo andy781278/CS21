@@ -1,3 +1,4 @@
+#Counting
 number of ways to arrange r objects out of n positions/spots/slots
 $P(n,r) = _nP_r = n(n-1)(n-2)...(n-r+1) = \frac{n!}{(n-r)!}$
 
