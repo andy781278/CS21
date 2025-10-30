@@ -20,7 +20,7 @@ each box has to have at least 1 ball in it, meaning number of balls has to be at
 
 For $F: N \rightarrow X$
 
-| Elements of N (balls) | Elements of X (boxes) | Any f                                      | f [[Injective]] (one-to-one)         | f [[surjective]] (onto)                                                               |
+| Elements of N (balls) | Elements of X (boxes) | Any f                                      | f [[Injective]] (one-to-one)         | f [[Surjective]] (onto)                                                               |
 | --------------------- | --------------------- | ------------------------------------------ | ------------------------------------ | ------------------------------------------------------------------------------------- |
 | Distinguishable       | Distinguishable       | $x^n$ <- [[Power Rule]]                    | P(x,n) <- [[r-Permutations]]         | $\sum_{k=0}^{x}\binom{x}{k}(x-k)^n(-1)^k$ <- [[Each character is used at least once]] |
 | Indist.               | Dist.                 | $\binom{n+x-1}{x-1}$ <- [[Stars and Bars]] | $\binom{x}{n}$ <- [[r-Combinations]] | $\binom{n-1}{x-1}$ <- [[Integer Equations]]                                           |

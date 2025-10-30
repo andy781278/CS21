@@ -2,4 +2,4 @@ if set A can be partitioned into disjoint subsets X1,...,Xk each having same num
 
 then k = |A|/|X1|
 
-for [[anagram]]
+for [[Anagram]]

@@ -11,7 +11,7 @@ Since there are |S| outcome and and sum of all outcomes is 1, each outcome's pro
 We are probably only using this one
 Conditional probability are when probability of an outcome is defined by an equation, then integrals are required (I kinda want that but ok)
 
-If your sample space S has [[uniform distribution]], then for any event E, p(E) is:
+If your sample space S has [[Uniform Distribution]], then for any event E, p(E) is:
 $$p(E) = \frac{|E|}{|S|}$$
 This basically means that you divide the number of elements in E by the total elements
 
