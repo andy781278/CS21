@@ -1,3 +1,4 @@
+#Algorithm
 A sum over a seq of numbers that share a common difference d when they're i distance apart with N terms in total
 $$\sum_{i=0}^n a_0 + di = N(\frac{first+last}{2})=(n+1)(\frac{a_0+(a_0+dn)}{2})$$
 

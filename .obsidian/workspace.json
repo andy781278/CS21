@@ -8,68 +8,63 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6ad0ad823b7f046e",
+            "id": "b5f35f82339ffa1b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/Oct 24th.md",
+                "file": "Algorithms/Loop Invariant.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Oct 24th"
+              "title": "Loop Invariant"
             }
           },
           {
-            "id": "f14241ae3e77d46b",
+            "id": "1fe712250fd9135d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sorting/Sorting.md",
+                "file": "Algorithms/Sorting/Min Sort (Selection Sort).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sorting"
+              "title": "Min Sort (Selection Sort)"
             }
           },
           {
-            "id": "1b78614249bbf78d",
+            "id": "0e924c6a97f3af9e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sorting/Arithmetic Series.md",
+                "file": "Algorithms/Optimization/Disjoint.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Arithmetic Series"
+              "title": "Disjoint"
             }
-          }
-        ]
-      },
-      {
-        "id": "472dd96ff9eeced9",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "20b31af459f6ab70",
+            "id": "ec82a1a7e43cb5bd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Canvas.md",
+                "file": "Latex Symbols.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Canvas"
+              "title": "Latex Symbols"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -215,39 +210,42 @@
       "bases:Create new base": false
     }
   },
-  "active": "6ad0ad823b7f046e",
+  "active": "1fe712250fd9135d",
   "lastOpenFiles": [
-    "Sorting/Sorting.md",
-    "Classes/Oct 24th.md",
+    "Algorithms/Optimization/Sum Triples.md",
+    "Algorithms/Loop Invariant.md",
+    "Algorithms/Sorting/Min Sort (Selection Sort).md",
+    "Classes/Oct 31st F.md",
+    "Classes/Oct 29th W.md",
+    "Classes/Oct 27th M.md",
+    "Classes/Oct 24th F.md",
     "Classes/Oct 22nd W.md",
-    "Sorting/Arithmetic Series.md",
-    "Sorting/Min Sort.md",
-    "Sorting/Algorithm.md",
-    "Sorting/Total Ordering.md",
+    "Algorithms/Big Notation.md",
+    "Algorithms/Optimization/Disjoint.md",
+    "Algorithms/Time Analysis.md",
+    "Algorithms/Algorithm.md",
+    "Algorithms/Optimization",
     "Canvas.md",
+    "Latex Symbols.md",
+    "Algorithms/Sorting/Arithmetic Series.md",
+    "Algorithms/Searching/Searching.md",
+    "Algorithms/Searching/Binary Search.md",
+    "Algorithms/Searching/Linear Search.md",
+    "Algorithms/Sorting/Bubble Sort.md",
+    "Algorithms/Sorting/Total Ordering.md",
+    "Algorithms/Sorting/Sorting.md",
+    "Classes/Oct 20th M.md",
+    "Algorithms/Searching",
+    "Algorithms/Sorting",
     "Classes/Classes.md",
     "Proof/Bijection Proof.md",
     "Proof/Proofs.md",
     "Proof/Induction.md",
-    "Proof/Symmetry Identity.md",
-    "Proof/bijection.md",
-    "Proof/Binomial Theorem.md",
-    "Proof/Pascal's Identity.md",
-    "Proof/Sum Identity.md",
-    "Proof/Same-Set Proof.md",
-    "Proof/Combinatorial proofs.md",
-    "Probability/Geometric Distribution.md",
-    "Probability/Law of Total Expectation.md",
-    "Probability/Conditional Expectation.md",
-    "Probability/Linearity of Expectation.md",
-    "Probability/Expected Value (Average).md",
-    "Probability/Binomial Distribution.md",
-    "Probability/Law of Total Probability.md",
     "Pics/Screen Shot 2025-10-20 at 9.03.17 PM.png",
     "Pics/Screen Shot 2025-10-17 at 8.34.59 PM.png",
     "Pics/Screen Shot 2025-10-25 at 6.57.37 PM.png",
     "Pics",
-    "Sorting",
+    "Algorithms",
     "Probability",
     "Classes",
     "Proof",
@@ -255,7 +253,6 @@
     "Pics/Screen Shot 2025-10-20 at 9.05.07 PM.png",
     "Pics/Screen Shot 2025-10-20 at 9.03.35 PM.png",
     "Untitled.base",
-    "Untitled.canvas",
-    "Untitled 1.base"
+    "Untitled.canvas"
   ]
 }

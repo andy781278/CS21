@@ -6,8 +6,34 @@
       "Counting",
       "Probability",
       "Proof",
-      "Sorting",
-      "Pics"
+      "Algorithms",
+      "Pics",
+      "Latex Symbols.md"
+    ],
+    "Algorithms": [
+      "Algorithms/Algorithm.md",
+      "Algorithms/Sorting",
+      "Algorithms/Searching",
+      "Algorithms/Big Notation.md",
+      "Algorithms/Time Analysis.md",
+      "Algorithms/Optimization",
+      "Algorithms/Loop Invariant.md"
+    ],
+    "Algorithms/Optimization": [
+      "Algorithms/Optimization/Sum Triples.md",
+      "Algorithms/Optimization/Disjoint.md"
+    ],
+    "Algorithms/Searching": [
+      "Algorithms/Searching/Searching.md",
+      "Algorithms/Searching/Linear Search.md",
+      "Algorithms/Searching/Binary Search.md"
+    ],
+    "Algorithms/Sorting": [
+      "Algorithms/Sorting/Sorting.md",
+      "Algorithms/Sorting/Total Ordering.md",
+      "Algorithms/Sorting/Arithmetic Series.md",
+      "Algorithms/Sorting/Min Sort (Selection Sort).md",
+      "Algorithms/Sorting/Bubble Sort.md"
     ],
     "Classes": [
       "Classes/Classes.md",
@@ -23,7 +49,10 @@
       "Classes/Oct 17th F.md",
       "Classes/Oct 20th M.md",
       "Classes/Oct 22nd W.md",
-      "Classes/Oct 24th.md"
+      "Classes/Oct 24th F.md",
+      "Classes/Oct 27th M.md",
+      "Classes/Oct 29th W.md",
+      "Classes/Oct 31st F.md"
     ],
     "Counting": [
       "Counting/Counting.md",
@@ -78,13 +107,6 @@
       "Proof/Combinatorial proofs.md",
       "Proof/Bijection Proof.md",
       "Proof/Same-Set Proof.md"
-    ],
-    "Sorting": [
-      "Sorting/Sorting.md",
-      "Sorting/Algorithm.md",
-      "Sorting/Total Ordering.md",
-      "Sorting/Min Sort.md",
-      "Sorting/Arithmetic Series.md"
     ]
   },
   "draggingEnabled": true,

@@ -1,3 +1,4 @@
+#Algorithm
 ### WHAT
 Problem specification: Input, output, relation between the two
 ### HOW
