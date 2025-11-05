@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithms/Loop Invariant.md",
+                "file": "Algorithms/Big Notation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Loop Invariant"
+              "title": "Big Notation"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithms/Sorting/Min Sort (Selection Sort).md",
+                "file": "Probability/Expected Value (Average).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Min Sort (Selection Sort)"
+              "title": "Expected Value (Average)"
             }
           },
           {
@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithms/Optimization/Disjoint.md",
+                "file": "Counting/Integer Equations.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Disjoint"
+              "title": "Integer Equations"
             }
           },
           {
@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -210,37 +210,37 @@
       "bases:Create new base": false
     }
   },
-  "active": "1fe712250fd9135d",
+  "active": "0e924c6a97f3af9e",
   "lastOpenFiles": [
-    "Algorithms/Optimization/Sum Triples.md",
-    "Algorithms/Loop Invariant.md",
-    "Algorithms/Sorting/Min Sort (Selection Sort).md",
-    "Classes/Oct 31st F.md",
-    "Classes/Oct 29th W.md",
-    "Classes/Oct 27th M.md",
-    "Classes/Oct 24th F.md",
-    "Classes/Oct 22nd W.md",
+    "Probability/Expected Value (Average).md",
     "Algorithms/Big Notation.md",
-    "Algorithms/Optimization/Disjoint.md",
-    "Algorithms/Time Analysis.md",
-    "Algorithms/Algorithm.md",
-    "Algorithms/Optimization",
-    "Canvas.md",
+    "Counting/Integer Equations.md",
+    "Counting/Stars and Bars.md",
+    "Counting/Each character is used at least once.md",
+    "Counting/The 12-fold way.md",
     "Latex Symbols.md",
-    "Algorithms/Sorting/Arithmetic Series.md",
-    "Algorithms/Searching/Searching.md",
-    "Algorithms/Searching/Binary Search.md",
-    "Algorithms/Searching/Linear Search.md",
-    "Algorithms/Sorting/Bubble Sort.md",
-    "Algorithms/Sorting/Total Ordering.md",
+    "Algorithms/Optimization/Disjoint.md",
+    "Algorithms/Loop Invariant.md",
+    "Algorithms/Time Analysis.md",
+    "Probability/Probabilities.md",
+    "Probability/Linearity of Expectation.md",
+    "Probability/Distribution.md",
+    "Probability/Binomial Distribution.md",
+    "Probability/Probability.md",
+    "Probability/Geometric Distribution.md",
+    "Probability/Law of Total Expectation.md",
+    "Probability/Conditional Expectation.md",
+    "Probability/Bayes' Theorem.md",
+    "Probability/Law of Total Probability.md",
+    "Probability/Conditional Probabilities.md",
+    "Classes/Classes.md",
+    "Counting/Counting.md",
+    "Canvas.md",
+    "Algorithms/Algorithm.md",
     "Algorithms/Sorting/Sorting.md",
-    "Classes/Oct 20th M.md",
+    "Algorithms/Optimization",
     "Algorithms/Searching",
     "Algorithms/Sorting",
-    "Classes/Classes.md",
-    "Proof/Bijection Proof.md",
-    "Proof/Proofs.md",
-    "Proof/Induction.md",
     "Pics/Screen Shot 2025-10-20 at 9.03.17 PM.png",
     "Pics/Screen Shot 2025-10-17 at 8.34.59 PM.png",
     "Pics/Screen Shot 2025-10-25 at 6.57.37 PM.png",

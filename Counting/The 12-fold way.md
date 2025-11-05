@@ -27,3 +27,6 @@ For $F: N \rightarrow X$
 | Indist.               | Dist.                 | $\binom{n+x-1}{x-1}$ <- [[Stars and Bars]] | $\binom{x}{n}$ <- [[r-Combinations]] | $\binom{n-1}{x-1}$ <- [[Integer Equations]]                                           |
 | Dist.                 | Indist.               | Sum of stirling numbers partitions         | 1                                    | stirling number partitions                                                            |
 | Indist.               | Indist.               | integer partitions                         | 1                                    | restricted partitions                                                                 |
+
+^1bd745
+
