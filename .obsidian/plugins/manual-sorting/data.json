@@ -2,6 +2,7 @@
   "customFileOrder": {
     "/": [
       "Canvas.md",
+      "Classes.md",
       "Classes",
       "Counting",
       "Probability",
@@ -36,7 +37,6 @@
       "Algorithms/Sorting/Bubble Sort.md"
     ],
     "Classes": [
-      "Classes/Classes.md",
       "Classes/Sep 26th F.md",
       "Classes/Sep 29th M.md",
       "Classes/Oct 1st W.md",

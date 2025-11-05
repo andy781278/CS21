@@ -8,6 +8,48 @@
         "type": "tabs",
         "children": [
           {
+            "id": "1fe712250fd9135d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Probability/Probabilities.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Probabilities"
+            }
+          },
+          {
+            "id": "2ed38a1ad5b84cca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Counting/The 12-fold way.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The 12-fold way"
+            }
+          },
+          {
+            "id": "0e924c6a97f3af9e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Probability/Linearity of Expectation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Linearity of Expectation"
+            }
+          },
+          {
             "id": "b5f35f82339ffa1b",
             "type": "leaf",
             "state": {
@@ -19,34 +61,6 @@
               },
               "icon": "lucide-file",
               "title": "Big Notation"
-            }
-          },
-          {
-            "id": "1fe712250fd9135d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Probability/Expected Value (Average).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Expected Value (Average)"
-            }
-          },
-          {
-            "id": "0e924c6a97f3af9e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Counting/Integer Equations.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Integer Equations"
             }
           },
           {
@@ -64,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -210,34 +224,34 @@
       "bases:Create new base": false
     }
   },
-  "active": "0e924c6a97f3af9e",
+  "active": "b5f35f82339ffa1b",
   "lastOpenFiles": [
-    "Probability/Expected Value (Average).md",
-    "Algorithms/Big Notation.md",
-    "Counting/Integer Equations.md",
-    "Counting/Stars and Bars.md",
-    "Counting/Each character is used at least once.md",
-    "Counting/The 12-fold way.md",
-    "Latex Symbols.md",
-    "Algorithms/Optimization/Disjoint.md",
-    "Algorithms/Loop Invariant.md",
-    "Algorithms/Time Analysis.md",
-    "Probability/Probabilities.md",
     "Probability/Linearity of Expectation.md",
-    "Probability/Distribution.md",
-    "Probability/Binomial Distribution.md",
-    "Probability/Probability.md",
+    "Probability/Probabilities.md",
+    "Counting/The 12-fold way.md",
     "Probability/Geometric Distribution.md",
     "Probability/Law of Total Expectation.md",
     "Probability/Conditional Expectation.md",
-    "Probability/Bayes' Theorem.md",
+    "Probability/Expected Value (Average).md",
+    "Probability/Binomial Distribution.md",
     "Probability/Law of Total Probability.md",
+    "Probability/Bayes' Theorem.md",
     "Probability/Conditional Probabilities.md",
-    "Classes/Classes.md",
     "Counting/Counting.md",
+    "Algorithms/Big Notation.md",
+    "Counting/Integer Equations.md",
+    "Counting/r-Combinations.md",
+    "Counting/Stars and Bars.md",
+    "Counting/Each character is used at least once.md",
+    "Latex Symbols.md",
+    "Probability/Probability.md",
+    "Classes.md",
+    "Algorithms/Optimization/Disjoint.md",
+    "Algorithms/Loop Invariant.md",
+    "Algorithms/Time Analysis.md",
+    "Probability/Distribution.md",
     "Canvas.md",
     "Algorithms/Algorithm.md",
-    "Algorithms/Sorting/Sorting.md",
     "Algorithms/Optimization",
     "Algorithms/Searching",
     "Algorithms/Sorting",
