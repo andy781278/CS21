@@ -2,14 +2,14 @@
   "customFileOrder": {
     "/": [
       "Canvas.md",
-      "Classes.md",
       "Classes",
       "Counting",
       "Probability",
       "Proof",
       "Algorithms",
       "Pics",
-      "Latex Symbols.md"
+      "Latex Symbols.md",
+      "Classes.md"
     ],
     "Algorithms": [
       "Algorithms/Algorithm.md",
@@ -18,7 +18,8 @@
       "Algorithms/Big Notation.md",
       "Algorithms/Time Analysis.md",
       "Algorithms/Optimization",
-      "Algorithms/Loop Invariant.md"
+      "Algorithms/Loop Invariant.md",
+      "Algorithms/Recursion.md"
     ],
     "Algorithms/Optimization": [
       "Algorithms/Optimization/Sum Triples.md",
@@ -34,7 +35,8 @@
       "Algorithms/Sorting/Total Ordering.md",
       "Algorithms/Sorting/Arithmetic Series.md",
       "Algorithms/Sorting/Min Sort (Selection Sort).md",
-      "Algorithms/Sorting/Bubble Sort.md"
+      "Algorithms/Sorting/Bubble Sort.md",
+      "Algorithms/Sorting/Merge Sort.md"
     ],
     "Classes": [
       "Classes/Sep 26th F.md",
@@ -52,7 +54,8 @@
       "Classes/Oct 24th F.md",
       "Classes/Oct 27th M.md",
       "Classes/Oct 29th W.md",
-      "Classes/Oct 31st F.md"
+      "Classes/Oct 31st F.md",
+      "Classes/Nov 3rd M.md"
     ],
     "Counting": [
       "Counting/Counting.md",
