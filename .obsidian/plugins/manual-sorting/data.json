@@ -11,7 +11,9 @@
       "Latex Symbols.md",
       "Classes.md",
       "Screen Shot 2025-11-17 at 1.06.03 PM.png",
-      "Screen Shot 2025-11-17 at 1.09.35 PM.png"
+      "Screen Shot 2025-11-17 at 1.09.35 PM.png",
+      "Screen Shot 2025-11-17 at 2.36.39 PM.png",
+      "Screen Shot 2025-11-17 at 2.40.36 PM.png"
     ],
     "Algorithms": [
       "Algorithms/Algorithm.md",
@@ -23,7 +25,14 @@
       "Algorithms/Loop Invariant.md",
       "Algorithms/Recursion.md",
       "Algorithms/Master Theorem.md",
-      "Algorithms/Multiplication.md"
+      "Algorithms/Multiplication.md",
+      "Algorithms/Counting Seq of Sets"
+    ],
+    "Algorithms/Counting Seq of Sets": [
+      "Algorithms/Counting Seq of Sets/Counting Sequences of Sets.md",
+      "Algorithms/Counting Seq of Sets/n-bit strings.md",
+      "Algorithms/Counting Seq of Sets/Homogeneous Recurrence Relations with Constant Coefficients.md",
+      "Algorithms/Counting Seq of Sets/Dominoes.md"
     ],
     "Algorithms/Optimization": [
       "Algorithms/Optimization/Sum Triples.md",

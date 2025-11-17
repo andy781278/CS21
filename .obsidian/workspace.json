@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithms/Multiplication.md",
+                "file": "Classes/Nov 10th M.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Multiplication"
+              "title": "Nov 10th M"
             }
           },
           {
@@ -183,15 +183,23 @@
   },
   "active": "553988e38ded81ea",
   "lastOpenFiles": [
-    "Screen Shot 2025-11-17 at 1.09.35 PM.png",
+    "Algorithms/Counting Seq of Sets/Dominoes.md",
+    "Algorithms/Counting Seq of Sets/Counting Sequences of Sets.md",
+    "Screen Shot 2025-11-17 at 2.40.36 PM.png",
+    "Algorithms/Counting Seq of Sets",
     "Classes/Nov 10th M.md",
+    "Classes/Sep 26th F.md",
+    "Algorithms/Counting Seq of Sets/Homogeneous Recurrence Relations with Constant Coefficients.md",
+    "Screen Shot 2025-11-17 at 2.36.39 PM.png",
+    "Algorithms/Counting Seq of Sets/n-bit strings.md",
+    "Algorithms/Multiplication.md",
+    "Screen Shot 2025-11-17 at 1.09.35 PM.png",
     "Algorithms/Sorting/Merge Sort.md",
     "Algorithms/Big Notation.md",
     "Algorithms/Time Analysis.md",
     "Algorithms/Loop Invariant.md",
     "Algorithms/Recursion.md",
     "Algorithms/Master Theorem.md",
-    "Algorithms/Multiplication.md",
     "Screen Shot 2025-11-17 at 1.06.03 PM.png",
     "Classes/Nov 7th F.md",
     "Latex Symbols.md",
@@ -205,11 +213,6 @@
     "Algorithms/Sorting/Bubble Sort.md",
     "Algorithms/Algorithm.md",
     "Classes.md",
-    "Counting/Integer Equations.md",
-    "Counting/Stars and Bars.md",
-    "Counting/Each character is used at least once.md",
-    "Counting/The 12-fold way.md",
-    "Algorithms/Optimization/Disjoint.md",
     "Algorithms/Optimization",
     "Algorithms/Searching",
     "Algorithms/Sorting",
@@ -224,7 +227,6 @@
     "Counting",
     "Pics/Screen Shot 2025-10-20 at 9.05.07 PM.png",
     "Pics/Screen Shot 2025-10-20 at 9.03.35 PM.png",
-    "Untitled.base",
     "Untitled.canvas"
   ]
 }
