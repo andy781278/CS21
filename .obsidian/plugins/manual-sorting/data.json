@@ -9,7 +9,9 @@
       "Algorithms",
       "Pics",
       "Latex Symbols.md",
-      "Classes.md"
+      "Classes.md",
+      "Screen Shot 2025-11-17 at 1.06.03 PM.png",
+      "Screen Shot 2025-11-17 at 1.09.35 PM.png"
     ],
     "Algorithms": [
       "Algorithms/Algorithm.md",
@@ -19,7 +21,9 @@
       "Algorithms/Time Analysis.md",
       "Algorithms/Optimization",
       "Algorithms/Loop Invariant.md",
-      "Algorithms/Recursion.md"
+      "Algorithms/Recursion.md",
+      "Algorithms/Master Theorem.md",
+      "Algorithms/Multiplication.md"
     ],
     "Algorithms/Optimization": [
       "Algorithms/Optimization/Sum Triples.md",
@@ -55,7 +59,9 @@
       "Classes/Oct 27th M.md",
       "Classes/Oct 29th W.md",
       "Classes/Oct 31st F.md",
-      "Classes/Nov 3rd M.md"
+      "Classes/Nov 3rd M.md",
+      "Classes/Nov 7th F.md",
+      "Classes/Nov 10th M.md"
     ],
     "Counting": [
       "Counting/Counting.md",

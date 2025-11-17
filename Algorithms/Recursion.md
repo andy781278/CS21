@@ -1,3 +1,4 @@
+#Algorithm
 Similar to Induction, but we are solving a problem
 
 We must first have a base case

@@ -1,4 +1,4 @@
-#Sorting #Algorithm
+#Sorting #Algorithm #DivideAndConquer 
 
 ### HOW
 Divide and Conquer:
@@ -47,3 +47,14 @@ $L_2$ = MergeSort($a_{m+1},...,a_n$), since size of $a_{m+1}$ to $a_n$ < n, $L_2
 
 By correctness of RMerge, RMerge($L_1,L_2$) is a sorted list of all n elements
 
+### WHEN
+
+T(n) = 2T(n/2) + O(n)
+
+2 : number of recursive calls
+n/2: size of recursive calls
+O(n) : runtime of the non-recursive part
+
+![[Master Theorem]]
+
+Using the master theorem, a=2, b=2, d=1, $2 = 2^1$, so $O(n^1 log(n))$

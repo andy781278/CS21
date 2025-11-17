@@ -10,3 +10,7 @@ Runtime depends on:
 	- Dependent on software: OS, language, data structure, background processes
 
 You usually multiply runtime for loops, but only for O, not for $\Theta$. 
+
+#  T(n)
+The function for calculating runtime is T(n)
+
