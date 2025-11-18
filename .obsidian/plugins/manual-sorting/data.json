@@ -2,6 +2,7 @@
   "customFileOrder": {
     "/": [
       "Canvas.md",
+      "Classes.md",
       "Classes",
       "Counting",
       "Probability",
@@ -9,11 +10,7 @@
       "Algorithms",
       "Pics",
       "Latex Symbols.md",
-      "Classes.md",
-      "Screen Shot 2025-11-17 at 1.06.03 PM.png",
-      "Screen Shot 2025-11-17 at 1.09.35 PM.png",
-      "Screen Shot 2025-11-17 at 2.36.39 PM.png",
-      "Screen Shot 2025-11-17 at 2.40.36 PM.png"
+      "Pasted image 20251117182734.png"
     ],
     "Algorithms": [
       "Algorithms/Algorithm.md",
@@ -26,13 +23,16 @@
       "Algorithms/Recursion.md",
       "Algorithms/Master Theorem.md",
       "Algorithms/Multiplication.md",
-      "Algorithms/Counting Seq of Sets"
+      "Algorithms/Counting Seq of Sets",
+      "Algorithms/Stirling's Approximation.md"
     ],
     "Algorithms/Counting Seq of Sets": [
       "Algorithms/Counting Seq of Sets/Counting Sequences of Sets.md",
-      "Algorithms/Counting Seq of Sets/n-bit strings.md",
       "Algorithms/Counting Seq of Sets/Homogeneous Recurrence Relations with Constant Coefficients.md",
-      "Algorithms/Counting Seq of Sets/Dominoes.md"
+      "Algorithms/Counting Seq of Sets/n-bit strings.md",
+      "Algorithms/Counting Seq of Sets/Dominoes.md",
+      "Algorithms/Counting Seq of Sets/Pair of Elements.md",
+      "Algorithms/Counting Seq of Sets/Tower of Hanoi.md"
     ],
     "Algorithms/Optimization": [
       "Algorithms/Optimization/Sum Triples.md",
@@ -70,7 +70,9 @@
       "Classes/Oct 31st F.md",
       "Classes/Nov 3rd M.md",
       "Classes/Nov 7th F.md",
-      "Classes/Nov 10th M.md"
+      "Classes/Nov 10th M.md",
+      "Classes/Nov 12th W.md",
+      "Classes/Nov 14th F.md"
     ],
     "Counting": [
       "Counting/Counting.md",
@@ -97,7 +99,11 @@
       "Pics/Screen Shot 2025-10-25 at 6.57.37 PM.png",
       "Pics/Screen Shot 2025-10-20 at 9.03.17 PM.png",
       "Pics/Screen Shot 2025-10-20 at 9.03.35 PM.png",
-      "Pics/Screen Shot 2025-10-20 at 9.05.07 PM.png"
+      "Pics/Screen Shot 2025-10-20 at 9.05.07 PM.png",
+      "Pics/Screen Shot 2025-11-17 at 1.06.03 PM.png",
+      "Pics/Screen Shot 2025-11-17 at 1.09.35 PM.png",
+      "Pics/Screen Shot 2025-11-17 at 2.36.39 PM.png",
+      "Pics/Screen Shot 2025-11-17 at 2.40.36 PM.png"
     ],
     "Probability": [
       "Probability/Probabilities.md",
