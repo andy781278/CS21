@@ -2,7 +2,6 @@
   "customFileOrder": {
     "/": [
       "Canvas.md",
-      "Classes.md",
       "Classes",
       "Counting",
       "Probability",
@@ -10,6 +9,7 @@
       "Algorithms",
       "Pics",
       "Latex Symbols.md",
+      "Classes.md",
       "Pasted image 20251117182734.png"
     ],
     "Algorithms": [
@@ -28,8 +28,8 @@
     ],
     "Algorithms/Counting Seq of Sets": [
       "Algorithms/Counting Seq of Sets/Counting Sequences of Sets.md",
-      "Algorithms/Counting Seq of Sets/Homogeneous Recurrence Relations with Constant Coefficients.md",
       "Algorithms/Counting Seq of Sets/n-bit strings.md",
+      "Algorithms/Counting Seq of Sets/Homogeneous Recurrence Relations with Constant Coefficients.md",
       "Algorithms/Counting Seq of Sets/Dominoes.md",
       "Algorithms/Counting Seq of Sets/Pair of Elements.md",
       "Algorithms/Counting Seq of Sets/Tower of Hanoi.md"
