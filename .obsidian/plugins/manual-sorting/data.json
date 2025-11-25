@@ -7,10 +7,14 @@
       "Probability",
       "Proof",
       "Algorithms",
+      "Encode",
       "Pics",
       "Latex Symbols.md",
       "Classes.md",
-      "Pasted image 20251117182734.png"
+      "Pasted image 20251124154557.png",
+      "Pasted image 20251124155103.png",
+      "Pasted image 20251124155119.png",
+      "Pasted image 20251124155141.png"
     ],
     "Algorithms": [
       "Algorithms/Algorithm.md",
@@ -72,7 +76,12 @@
       "Classes/Nov 7th F.md",
       "Classes/Nov 10th M.md",
       "Classes/Nov 12th W.md",
-      "Classes/Nov 14th F.md"
+      "Classes/Nov 14th F.md",
+      "Classes/Nov 17th M.md",
+      "Classes/Nov 19th W.md",
+      "Classes/Nov 21st F.md",
+      "Classes/Nov 24th M.md",
+      "Classes/Nov 26th W.md"
     ],
     "Counting": [
       "Counting/Counting.md",
@@ -94,6 +103,16 @@
       "Counting/Binomial Coefficient.md",
       "Counting/The 12-fold way.md"
     ],
+    "Encode": [
+      "Encode/Encode.md",
+      "Encode/Fixed Length Encodings.md",
+      "Encode/Variable Length Encodings.md",
+      "Encode/Huffman Coding.md",
+      "Encode/Theoretical Optimal Encoding.md",
+      "Encode/Ranking and Unranking Algorithm.md",
+      "Encode/Graph.md",
+      "Encode/Encoding Graph.md"
+    ],
     "Pics": [
       "Pics/Screen Shot 2025-10-17 at 8.34.59 PM.png",
       "Pics/Screen Shot 2025-10-25 at 6.57.37 PM.png",
@@ -103,7 +122,20 @@
       "Pics/Screen Shot 2025-11-17 at 1.06.03 PM.png",
       "Pics/Screen Shot 2025-11-17 at 1.09.35 PM.png",
       "Pics/Screen Shot 2025-11-17 at 2.36.39 PM.png",
-      "Pics/Screen Shot 2025-11-17 at 2.40.36 PM.png"
+      "Pics/Screen Shot 2025-11-17 at 2.40.36 PM.png",
+      "Pics/Pasted image 20251117182734.png",
+      "Pics/Pasted image 20251123231817.png",
+      "Pics/Pasted image 20251123231900.png",
+      "Pics/Pasted image 20251123233639.png",
+      "Pics/Pasted image 20251123234627.png",
+      "Pics/Pasted image 20251123235144.png",
+      "Pics/Pasted image 20251124104039.png",
+      "Pics/Pasted image 20251123232429.png",
+      "Pics/Pasted image 20251124141935.png",
+      "Pics/Pasted image 20251124145310.png",
+      "Pics/Pasted image 20251124151419.png",
+      "Pics/Pasted image 20251124151534.png",
+      "Pics/Untitled.png"
     ],
     "Probability": [
       "Probability/Probabilities.md",

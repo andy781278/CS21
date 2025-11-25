@@ -1,5 +1,5 @@
 #Proof
-theorem: $\binom{n+1}{k}=\binom{n}{k-1}+\binom{n}{k}$
+theorem: $\binom{n+1}{k}=\binom{n}{k-1}+\binom{n}{k}$ ^fa69ab
 
 Proof 1: just math it
 
