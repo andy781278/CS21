@@ -7,14 +7,10 @@
       "Probability",
       "Proof",
       "Algorithms",
-      "Encode",
       "Pics",
+      "Encode",
       "Latex Symbols.md",
-      "Classes.md",
-      "Pasted image 20251124154557.png",
-      "Pasted image 20251124155103.png",
-      "Pasted image 20251124155119.png",
-      "Pasted image 20251124155141.png"
+      "Classes.md"
     ],
     "Algorithms": [
       "Algorithms/Algorithm.md",
@@ -105,13 +101,13 @@
     ],
     "Encode": [
       "Encode/Encode.md",
+      "Encode/Encoding Graph.md",
       "Encode/Fixed Length Encodings.md",
-      "Encode/Variable Length Encodings.md",
-      "Encode/Huffman Coding.md",
-      "Encode/Theoretical Optimal Encoding.md",
-      "Encode/Ranking and Unranking Algorithm.md",
       "Encode/Graph.md",
-      "Encode/Encoding Graph.md"
+      "Encode/Huffman Coding.md",
+      "Encode/Ranking and Unranking Algorithm.md",
+      "Encode/Theoretical Optimal Encoding.md",
+      "Encode/Variable Length Encodings.md"
     ],
     "Pics": [
       "Pics/Screen Shot 2025-10-17 at 8.34.59 PM.png",
@@ -126,16 +122,20 @@
       "Pics/Pasted image 20251117182734.png",
       "Pics/Pasted image 20251123231817.png",
       "Pics/Pasted image 20251123231900.png",
+      "Pics/Pasted image 20251123232429.png",
       "Pics/Pasted image 20251123233639.png",
       "Pics/Pasted image 20251123234627.png",
       "Pics/Pasted image 20251123235144.png",
       "Pics/Pasted image 20251124104039.png",
-      "Pics/Pasted image 20251123232429.png",
       "Pics/Pasted image 20251124141935.png",
       "Pics/Pasted image 20251124145310.png",
       "Pics/Pasted image 20251124151419.png",
       "Pics/Pasted image 20251124151534.png",
-      "Pics/Untitled.png"
+      "Pics/Untitled.png",
+      "Pics/Pasted image 20251124154557.png",
+      "Pics/Pasted image 20251124155103.png",
+      "Pics/Pasted image 20251124155119.png",
+      "Pics/Pasted image 20251124155141.png"
     ],
     "Probability": [
       "Probability/Probabilities.md",
