@@ -101,13 +101,13 @@
     ],
     "Encode": [
       "Encode/Encode.md",
-      "Encode/Encoding Graph.md",
       "Encode/Fixed Length Encodings.md",
-      "Encode/Graph.md",
       "Encode/Huffman Coding.md",
       "Encode/Ranking and Unranking Algorithm.md",
       "Encode/Theoretical Optimal Encoding.md",
-      "Encode/Variable Length Encodings.md"
+      "Encode/Variable Length Encodings.md",
+      "Encode/Graph.md",
+      "Encode/Encoding Graph.md"
     ],
     "Pics": [
       "Pics/Screen Shot 2025-10-17 at 8.34.59 PM.png",
