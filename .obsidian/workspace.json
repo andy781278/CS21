@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "553988e38ded81ea",
+            "id": "d04e84908ca9fa1c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Encode/Graph.md",
+                "file": "Graph.md",
                 "mode": "source",
                 "source": false
               },
@@ -181,11 +181,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "553988e38ded81ea",
+  "active": "d04e84908ca9fa1c",
   "lastOpenFiles": [
-    "Encode/Encoding Graph.md",
-    "Encode/Graph.md",
+    "Classes/Dec 1st M.md",
     "Classes/Nov 26th W.md",
+    "Canvas.md",
+    "Graph.md",
+    "Encode/Encoding Graph.md",
     "Classes/Nov 24th M.md",
     "Encode/Variable Length Encodings.md",
     "Encode/Encode.md",
@@ -218,9 +220,7 @@
     "Algorithms/Stirling's Approximation.md",
     "Algorithms/Counting Seq of Sets/Homogeneous Recurrence Relations with Constant Coefficients.md",
     "Algorithms/Counting Seq of Sets/n-bit strings.md",
-    "Classes/Nov 10th M.md",
     "Algorithms/Counting Seq of Sets",
-    "Classes/Sep 26th F.md",
     "Algorithms/Optimization",
     "Algorithms/Searching",
     "Algorithms/Sorting",
