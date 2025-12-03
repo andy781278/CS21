@@ -50,4 +50,40 @@ Directed Acyclic Graph (DAG)
 	1. While there are still sources:
 		1. run through the sources, output them, then remove them and their outgoing edges, update this to make new sources
 
+Unrooted Trees
+- Undirected Graph with no cycles, connected
+- simple path between any two vertices (but just 1)
+- Leaves in a tree are vertices of degree 1 (or 0 for a tree with a single vertex)
+- All trees with n vertices has n-1 edges
+- A set of trees is called a forest
+
+A tree with two or more vertices will always have a vertex of degree 1 (leaf)
+Proof by contradiction:
+- Assume in a tree, every vertex has degree > 1
+- pick any vertex and go to its neighbor, since the neighbor has 2 degrees or greater, then it can go to another vertex that's not the original vertex
+- This can go on forever, which is not possible unless it cycles, but trees cannot cycle
+- contradiction
+
+A tree with n vertices has n-1 edges
+Proof by Induction:
+- Base Case: if a tree only has 1 vertex it has 0 edges
+- Ind Hyp: Let n>=1, suppose all trees with n vertexes has n-1 edges
+- Ind Step: (show n+1 v has n e)
+	- Let G be a tree with n+1 v, by previous lemma, g has at least 1 leaf v, if you remove that leaf v, then the tree becomes ind hyp tree, add the vertex and edge back, now you have n+1 v and n e
+
+Rooted Trees:
+- a dag that has a defined vertex as a root with no incoming vertexes, every other v has exactly 1  incoming e
+- Height of a v is given by recurrence h(v)=h(p(v))+1 if v is not root, h(r)=0
+
+Binary Tree:
+- rooted tree where every vertex has at most 2 children
+- Max height with n vert - n-1
+- min height with n vert - $log_2(n+1)-1$
+
+Binary Search Tree:
+- Root node has value r
+- every node to the left has smaller value than r
+- every node to the right has greater value than r
+- This recurrence is at every node
+
 ![[Encoding Graph]]
